@@ -1,0 +1,9 @@
+7alal-website/
+├── index.html
+├── style.css
+├── main.js
+├── _redirects
+└── images/
+    ├── logo.png
+    ├── hero-bg.jpg
+    └── (other images)
